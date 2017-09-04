@@ -2,7 +2,7 @@ title: index
 description: hahha
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-merlot
 
 gems:
   - jekyll-mentions
